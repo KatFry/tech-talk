@@ -1,0 +1,23 @@
+{
+  "name": "tech-talk",
+  "version": "1.0.0",
+  "description": "tech-talk",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KatFry/tech-talk.git"
+  },
+  "author": "Kat Fry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KatFry/tech-talk/issues"
+  },
+  "homepage": "https://github.com/KatFry/tech-talk#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "svelte": "^4.2.1"
+  }
+}

@@ -1,0 +1,1 @@
+<!-- comparison 5: SHARED STATE -->

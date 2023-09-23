@@ -1,6 +1,6 @@
 import React from "react";
 
-// comparison 2: PROPS
+// Comparison 2: PROPS
 function DogBreed({ breed }) {
   return (
     <p>You picked the breed: {breed}</p>

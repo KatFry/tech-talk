@@ -1,1 +1,1 @@
-<!-- comparison 3: CHILDREN -->
+<!-- Comparison 3: CHILDREN -->

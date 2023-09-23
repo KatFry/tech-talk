@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-// comparison 1: STATE
+// Comparison 1: STATE
 function Counter() {
   const [count, setCount] = useState(0);
 
@@ -10,20 +10,5 @@ function Counter() {
     </button>
   );
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 export default Counter;

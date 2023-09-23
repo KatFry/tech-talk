@@ -1,1 +1,1 @@
-// comparison 6: PROMISES 
+// Comparison 6: PROMISES 

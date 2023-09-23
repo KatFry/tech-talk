@@ -1,4 +1,4 @@
-<!-- comparison 1: STATE -->
+<!-- Comparison 1: STATE -->
 <script>
   let count = 0;
 </script>

@@ -1,4 +1,4 @@
-<!-- comparison 2: PROPS -->
+<!-- Comparison 2: PROPS -->
 <script> 
   export let dog;
 </script>

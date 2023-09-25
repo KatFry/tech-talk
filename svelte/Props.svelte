@@ -6,4 +6,4 @@
 You picked the breed: {dog}
 
 <!-- similar access to props but wiyh syntactic sugar: -->
-<App dog={dog} /> 
+<!-- <App dog={dog} />  -->
